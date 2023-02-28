@@ -1,0 +1,11 @@
+make,model,year,mileage,hp,gear,fuel
+Ford,EcoSport,2022,5000,100,manual,gasoline
+Mercedes-Benz,CLA 200,2022,0,150,manual,gasoline
+Seat,Arona,2019,5000,100,manual,gasoline
+Audi,A6,2022,10000,100,automatic,diesel
+Opel,Adam,2022,5000,100,manual,gasoline
+BMW,X4 M40,2022,0,150,automatic,gasoline
+Skoda,ENYAQ iV,2019,0,100,manual,electric
+Seat,Leon,2022,0,150,automatic,diesel
+Skoda,Karoq,2022,5000,150,automatic,gasoline
+BMW,318,2019,10000,150,automatic,diesel
